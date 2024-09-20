@@ -8,7 +8,7 @@ Replace the values in the file `terraform.tfstate.json` with your GCP project de
 
 ## Install
 
-1. Run the following command at the root of the folder (you must ideally have owners IAM rights on the porject):
+1. Run the following command at the root of the folder (you must ideally have `owner`` IAM rights on the project):
 ```shell 
 $ terraform init
 $ terraform plan
